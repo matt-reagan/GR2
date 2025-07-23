@@ -1,0 +1,279 @@
+; Campgrounds Placefile for GR2Analyst
+; Custom icon hosted at: https://raw.githubusercontent.com/matt-reagan/GR2/main/bluedot.png
+
+Refresh: 5
+IconFile: 1,0,0,32,32,"https://raw.githubusercontent.com/matt-reagan/GR2/main/bluedot.png"
+
+Object: 36.32472,-87.06417
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Camp Sycamore Hills"
+  Text: 0,0,2,"County: Cheatham"
+  Text: 0,0,3,"Body of Water: Sycamore Creek"
+End:
+Object: 36.43282,-86.7213
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Valley View Camp"
+  Text: 0,0,2,"County: Robertson"
+  Text: 0,0,3,"Body of Water: Sulphur Fork Creek"
+End:
+Object: 36.43014,-86.70229
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Girl Scout Camp Holloway"
+  Text: 0,0,2,"County: Robertson"
+  Text: 0,0,3,"Body of Water: Sulphur Fork Creek"
+End:
+Object: 36.31492,-86.46244
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Boxwell Scout Reservation"
+  Text: 0,0,2,"County: Wilson"
+  Text: 0,0,3,"Body of Water: Cumberland River"
+End:
+Object: 36.32268,-86.31645
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Whispering Pines Christian Camp"
+  Text: 0,0,2,"County: Trousdale"
+  Text: 0,0,3,"Body of Water: Cumberland River"
+End:
+Object: 36.58728,-87.47712
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Fletcher's Fork Campground and Cabins"
+  Text: 0,0,2,"County: Montgomery"
+  Text: 0,0,3,"Body of Water: Fletchers Fork"
+End:
+Object: 36.61325,-87.2664
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Spring Creek Campground"
+  Text: 0,0,2,"County: Montgomery"
+  Text: 0,0,3,"Body of Water: Spring Creek"
+End:
+Object: 35.97107,-87.78193
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Loretta Lynn's Ranch and Campground"
+  Text: 0,0,2,"County: Humphreys"
+  Text: 0,0,3,"Body of Water: Hurricane Creek"
+End:
+Object: 36.31169,-87.67706
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Wells Creek RV Park"
+  Text: 0,0,2,"County: Houston"
+  Text: 0,0,3,"Body of Water: Wells Creek"
+End:
+Object: 35.94928,-87.46454
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Piney River Resort"
+  Text: 0,0,2,"County: Hickman"
+  Text: 0,0,3,"Body of Water: Piney River"
+End:
+Object: 36.0081,-87.51647
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Camp Garner Creek"
+  Text: 0,0,2,"County: Dickson"
+  Text: 0,0,3,"Body of Water: Garner Creek"
+End:
+Object: 36.28443,-87.14388
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Harpeth River Bridge Campsite"
+  Text: 0,0,2,"County: Cheatham"
+  Text: 0,0,3,"Body of Water: Harpeth River"
+End:
+Object: 35.88174,-87.37897
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Keg County Kowboys"
+  Text: 0,0,2,"County: Hickman"
+  Text: 0,0,3,"Body of Water: Mill Creek"
+End:
+Object: 35.88997,-87.48363
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Pinewood Canoe & Camp"
+  Text: 0,0,2,"County: Hickman"
+  Text: 0,0,3,"Body of Water: Piney River"
+End:
+Object: 35.57801,-87.43141
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Fall Hollow Campground RV Park"
+  Text: 0,0,2,"County: Lewis"
+  Text: 0,0,3,"Body of Water: Big Swan Creek"
+End:
+Object: 35.46285,-87.80943
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Buffalo River Trail Ride"
+  Text: 0,0,2,"County: Wayne"
+  Text: 0,0,3,"Body of Water: Buffalo River"
+End:
+Object: 35.45694,-87.77568
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Crazy Horse Recreational Park"
+  Text: 0,0,2,"County: Wayne"
+  Text: 0,0,3,"Body of Water: Buffalo River"
+End:
+Object: 35.43835,-87.70674
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Seven Pines River Resort"
+  Text: 0,0,2,"County: Wayne"
+  Text: 0,0,3,"Body of Water: Buffalo River"
+End:
+Object: 35.07238,-87.38939
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Licklog RV Park and Camp"
+  Text: 0,0,2,"County: Lawrence"
+  Text: 0,0,3,"Body of Water: Licklog Branch"
+End:
+Object: 35.62366,-86.81958
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Howlin' Hill"
+  Text: 0,0,2,"County: Marshall"
+  Text: 0,0,3,"Body of Water: Duck River"
+End:
+Object: 35.37045,-86.88298
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Stoney Creek Travel Park"
+  Text: 0,0,2,"County: Marshall"
+  Text: 0,0,3,"Body of Water: Robertson Fork Creek"
+End:
+Object: 35.46339,-86.0539
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"The Broken Banjo RV Park"
+  Text: 0,0,2,"County: Coffee"
+  Text: 0,0,3,"Body of Water: Hickory Flat Creek"
+End:
+Object: 35.54742,-86.6825
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Camp Woodlee Youth Camp"
+  Text: 0,0,2,"County: Warren"
+  Text: 0,0,3,"Body of Water: Collins River"
+End:
+Object: 35.77842,-86.69007
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Happy Camper Campground"
+  Text: 0,0,2,"County: Warren"
+  Text: 0,0,3,"Body of Water: Collins River"
+End:
+Object: 35.87665,-85.76161
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Seven Springs Cabins & RV Sites"
+  Text: 0,0,2,"County: DeKalb"
+  Text: 0,0,3,"Body of Water: Sink Creek"
+End:
+Object: 35.79739,-85.64577
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Camp Overton"
+  Text: 0,0,2,"County: Warren"
+  Text: 0,0,3,"Body of Water: Collins River"
+End:
+Object: 35.81729,-85.42614
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Campsite on the Caney"
+  Text: 0,0,2,"County: White"
+  Text: 0,0,3,"Body of Water: Caney Fork"
+End:
+Object: 35.83067,-85.27598
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Big Spring Campground"
+  Text: 0,0,2,"County: White"
+  Text: 0,0,3,"Body of Water: Caney Fork"
+End:
+Object: 35.64397,-86.87771
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Camper's RV Park"
+  Text: 0,0,2,"County: Maury"
+  Text: 0,0,3,"Body of Water: Pumpkin Creek"
+End:
+Object: 36.09704,-87.28766
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Montgomery Bell Campground"
+  Text: 0,0,2,"County: Dickson"
+  Text: 0,0,3,"Body of Water: Will Hall Creek"
+End:
+Object: 36.33878,-86.71918
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Grand Ole RV Resort and Market"
+  Text: 0,0,2,"County: Davidson"
+  Text: 0,0,3,"Body of Water: Mansker Creek"
+End:
+Object: 36.37343,-86.70999
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Nashville North RV Resort"
+  Text: 0,0,2,"County: Davidson"
+  Text: 0,0,3,"Body of Water: Slaters Creek"
+End:
+Object: 36.23394,-86.70849
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Nashville KOA Resort"
+  Text: 0,0,2,"County: Davidson"
+  Text: 0,0,3,"Body of Water: Cumberland River"
+End:
+Object: 36.58733,-87.08803
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Red River Canoe Rental"
+  Text: 0,0,2,"County: Robertson"
+  Text: 0,0,3,"Body of Water: Red River"
+End:
+Object: 36.38562,-86.92234
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Jonas Farm Venue and Cabins"
+  Text: 0,0,2,"County: Davidson"
+  Text: 0,0,3,"Body of Water: Redding Branch"
+End:
+Object: 36.17179,-86.30446
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"TN 40 & RV Park"
+  Text: 0,0,2,"County: Wilson"
+  Text: 0,0,3,"Body of Water: Sinking Creek"
+End:
+Object: 36.52977,-85.49074
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"River Trail Rentals"
+  Text: 0,0,2,"County: Clay"
+  Text: 0,0,3,"Body of Water: Dry Branch"
+End:
+Object: 36.35725,-85.34413
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Waterwheel RV Camp"
+  Text: 0,0,2,"County: Overton"
+  Text: 0,0,3,"Body of Water: Town Creek"
+End:
+Object: 36.54404,-84.95543
+  Icon: 1,0,0
+  Threshold: 0
+  Text: 0,0,1,"Wolf River Campground"
+  Text: 0,0,2,"County: Fentress"
+  Text: 0,0,3,"Body of Water: Wolf River"
+End:
